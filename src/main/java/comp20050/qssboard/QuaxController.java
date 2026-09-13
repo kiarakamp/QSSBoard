@@ -452,7 +452,7 @@ public class QuaxController {
 
     private void hidePieButton() {
         pieRuleButton.setVisible(false);
-        pieRuleButton.setDisable(true);
+        pieRuleButton.setDisable(true); // test commit
     }
 
     @FXML
